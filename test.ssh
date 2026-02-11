@@ -1,4 +1,1 @@
-echo "welcome omar "
-first
-conflict
-local change
+conflict 2 -> remote change
