@@ -1,4 +1,7 @@
+
 echo "welcome omar "
 first
 conflict
 conflict 2
+conflict 2 -> remote change
+
